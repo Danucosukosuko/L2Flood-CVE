@@ -18,7 +18,6 @@ Si quieres hacer un ataque a todos los dispositivos alrededor, utiliza `sudo pyt
 
 
 # WriteUp
-# WriteUp del Exploit: Flooding con l2ping
 
 Este script realiza un ataque de flooding sobre dispositivos Bluetooth utilizando herramientas nativas de Linux. Su propósito es saturar el stack de Bluetooth del dispositivo objetivo mediante múltiples paquetes enviados en paralelo.
 
@@ -68,7 +67,7 @@ El script utiliza Python para automatizar el proceso de flooding. Incluye las si
 
 ```bash
 # Ejecutar especificando una dirección MAC
-python3 script.py -m <dirección_MAC>
+python3 l2.py -m <dirección_MAC>
 
 # Si no se especifica una dirección MAC, el script escaneará dispositivos cercanos
-python3 script.py
+python3 l2.py
