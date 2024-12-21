@@ -1,5 +1,3 @@
-Aquí tienes el contenido de tu README.md todo en un solo bloque de código, para que puedas copiarlo fácilmente:
-
 ```markdown
 # L2FLOOD - Un exploit DoS escrito en Python para denegar la conexión a dispositivos Bluetooth
 
