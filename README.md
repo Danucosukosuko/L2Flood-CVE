@@ -125,7 +125,3 @@ Este proyecto utiliza las siguientes herramientas y librerías:
 - [hcitool](https://www.nongnu.org/bluez/)
 - [l2ping en Linux man pages](https://man7.org/linux/man-pages/man1/l2ping.1.html)
 ```
-
----
-
-Este es un único bloque de código en Markdown con toda la información estructurada. Puedes copiarlo directamente en tu archivo `README.md`. ¡Espero que te sirva! 😄
